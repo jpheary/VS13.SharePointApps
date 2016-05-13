@@ -24,7 +24,7 @@
           </webParts>
         ]]>
       </AllUsersWebPart>
-      <AllUsersWebPart WebPartZoneID="WebPartZone2" WebPartOrder="1">
+      <AllUsersWebPart WebPartZoneID="WebPartZone2" WebPartOrder="2">
         <![CDATA[
           <webParts>
             <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
@@ -46,7 +46,7 @@
           </webParts>
         ]]>
       </AllUsersWebPart>
-      <AllUsersWebPart WebPartZoneID="WebPartZone3" WebPartOrder="1">
+      <AllUsersWebPart WebPartZoneID="WebPartZone3" WebPartOrder="3">
         <![CDATA[
           <webParts>
             <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
