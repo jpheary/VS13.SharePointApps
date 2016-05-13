@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
-     Name="VS13FormsApp"
+     Name="myformsapp"
      ProductID="{ca19a660-e0eb-4d9d-a1fe-cd2e69b0a884}"
-     Version="1.0.0.0"
+     Version="4.0.0.0"
      SharePointMinVersion="16.0.0.0"
 >
   <Properties>
-    <Title>VS13.Forms.App</Title>
+    <Title>My Forms App</Title>
     <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
   </Properties>
 

@@ -55,6 +55,7 @@
     </None>
     <Content Include="Elements.xml" />
     <Content Include="MyList\Elements.xml" />
+    <Content Include="MyList\MyEditForm.aspx" />
     <Content Include="MyList\MyNewForm.aspx" />
     <Content Include="MyList\MyListInstance\Elements.xml" />
     <Content Include="MyList\Schema.xml" />
@@ -66,15 +67,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Scripts\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{1c911d2e-34fc-4824-8046-54ee83092653}</SharePointProjectItemId>
     </None>
+    <Content Include="Pages\NewItem.aspx" />
     <Content Include="Scripts\Elements.xml" />
     <Content Include="Scripts\App.js" />
-    <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
-    <Content Include="Scripts\jquery-1.9.1.js" />
-    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\editform.js" />
     <Content Include="Scripts\newform.js" />
     <Content Include="Scripts\_references.js" />
   </ItemGroup>
